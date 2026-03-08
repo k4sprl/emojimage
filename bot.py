@@ -12,7 +12,7 @@ import urllib.parse
 EMOJI_REGEX = r"<(a?):([^:]+):(\d+)>"
 MAX_ITEMS = 5
 INVITE_URL = "https://discord.com/oauth2/authorize?client_id=1456291804994470064"
-GITHUB_URL = "https://github.com/SureK4sperl/emojimage-bot"
+GITHUB_URL = "https://github.com/k4sprl/emojimage"
 TOS_URL = "https://k4sprl.github.io/emojimage/#terms"
 PRIVACY_URL = "https://k4sprl.github.io/emojimage/#privacy"
 WEBSITE_URL = "https://k4sprl.github.io/emojimage/"
