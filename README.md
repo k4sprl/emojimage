@@ -2,4 +2,4 @@
 A selfhostable discord bot, which's purpouse it is to download emojis and stickers from Discord. Even FakeNitro works with it.
 [bot.py](https://github.com/SureK4sperl/emojimage/blob/main/bot.py)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1456291804994470064)](https://discord.com/users/1456291804994470064)
+![image alt](https://github.com/k4sprl/emojimage/blob/06d18612dd4268912dfefd9b8b0278aff5f11e27/image.png)
