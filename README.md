@@ -1,3 +1,5 @@
+# Currently down due to vortexa.cloud having my bot's server shut down.
+
 # Emojimage
 A selfhostable Discord bot, which's purpouse is to download any emojis and stickers from Discord. Even FakeNitro works with it!
 
