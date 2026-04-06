@@ -1,5 +1,3 @@
-# Currently down due to me not having signed in every 7 days. Looking for an easy and reliable solution.
-
 # Emojimage
 A selfhostable Discord bot, which's purpouse is to download any emojis and stickers from Discord. Even FakeNitro works with it!
 
@@ -9,7 +7,7 @@ A selfhostable Discord bot, which's purpouse is to download any emojis and stick
 [Privacy Policy](https://k4sprl.github.io/emojimage#privacy) • 
 [Invite Bot](https://discord.com/oauth2/authorize?client_id=1456291804994470064)
 
-## The bot [1456291804994470064](https://discord.com/oauth2/authorize?client_id=1456291804994470064) is hosted 24/7 for free on [vortexa.cloud](https://www.vortexa.cloud/) .
+## The bot [1456291804994470064](https://discord.com/oauth2/authorize?client_id=1456291804994470064) is hosted 24/7 for free on [Wispbyte](https://wispbyte.com).
 
 ---
 
